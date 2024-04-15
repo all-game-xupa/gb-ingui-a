@@ -102,3 +102,6 @@ border-bottom: 4px solid var(--verde);
 .aba-conteudo.ativo{
     display: block;
 }
+.abas-textos{
+    background-color: var(--texto-fundo);
+}
